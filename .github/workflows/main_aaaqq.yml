@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'aaaqq'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_3bcd3ae81c564deeba00abb66b9668a3 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_6c4bd8e4d3bb4e4abfcb2cd1ca51eaba }}
